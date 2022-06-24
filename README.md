@@ -1,3 +1,3 @@
 # ALGO.-DATASTR.
 algorithms and data structures
-Files from my algo. and data str. in university
+Files from my class in university
