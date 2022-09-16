@@ -1,3 +1,2 @@
-# ALGO.-DATASTR.
-algorithms and data structures
+# Algorithms and Data Structures Class
 Files from my class in university
